@@ -1,0 +1,13 @@
+C:\Users\anest\Desktop\Kursova\Kursova\obj\Debug\Kursova.csproj.AssemblyReference.cache
+C:\Users\anest\Desktop\Kursova\Kursova\obj\Debug\Kursova.csproj.SuggestedBindingRedirects.cache
+C:\Users\anest\Desktop\Kursova\Kursova\obj\Debug\Delete.g.cs
+C:\Users\anest\Desktop\Kursova\Kursova\obj\Debug\Insert.g.cs
+C:\Users\anest\Desktop\Kursova\Kursova\obj\Debug\MainWindow.g.cs
+C:\Users\anest\Desktop\Kursova\Kursova\obj\Debug\Menu.g.cs
+C:\Users\anest\Desktop\Kursova\Kursova\obj\Debug\Page1.g.cs
+C:\Users\anest\Desktop\Kursova\Kursova\obj\Debug\Page2.g.cs
+C:\Users\anest\Desktop\Kursova\Kursova\obj\Debug\Page3.g.cs
+C:\Users\anest\Desktop\Kursova\Kursova\obj\Debug\Updata.g.cs
+C:\Users\anest\Desktop\Kursova\Kursova\obj\Debug\App.g.cs
+C:\Users\anest\Desktop\Kursova\Kursova\obj\Debug\Kursova_MarkupCompile.cache
+C:\Users\anest\Desktop\Kursova\Kursova\obj\Debug\Kursova_MarkupCompile.lref
